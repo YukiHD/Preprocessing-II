@@ -218,6 +218,18 @@ nav .navigation a {
   font-size: 1.6rem;
   padding: 20px;
 }
+.btn {
+  width: 50%;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #36ad11;
+  color: white;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #006667;
+}
 * {
   box-sizing: border-box;
 }
