@@ -178,6 +178,10 @@ nav .navigation .nav-bar a {
   font-size: 1.6rem;
   color: black;
 }
+.home .home-page {
+  padding-bottom: 30px;
+  border-bottom: 2px dashed #c0c0c0;
+}
 .home .home-page-img {
   margin-bottom: 30px;
 }
